@@ -34,7 +34,8 @@ Obviously, the more you invest in advancing a feature, the higher the odds of su
 
 ## Who are you?
 
-The core founding team includes experienced web standards designers and architects with a proven track record and deep tenure across multiple W3C Working Groups, the TAG and AB, and broad expertise spanning many areas of the web platform.
+The core founding team includes highly experienced web standards designers and architects with a proven track record and deep tenure across multiple standards groups, review bodies such as the TAG and the W3C Advisory Board, and broad, hands-on expertise spanning multiple web platform areas.
+
 We also collaborate with a larger network of independent web platform designers who bring specialized expertise in particular technologies.
 
 ### Are you a consortium? Or a Working Group?

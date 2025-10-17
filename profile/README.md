@@ -43,7 +43,7 @@ We also collaborate with a larger network of independent web platform designers 
 Neither!
 We do not aim to replace venues for standardization, like W3C, WHATWG, TC39, etc.
 We envision the Web Platform Collective as a change agent in those spaces,
-engaging relevant parties there to drive progress on various features on behalf of diverse web stakeholders.
+engaging relevant parties there to drive progress on various features on behalf of diverse web stakeholders and drawing from our breadth of expertise to connect the dots and unify efforts across different standards groups.
 
 ### Are you an agency? A nonprofit? Something else?
 

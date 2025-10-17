@@ -23,12 +23,12 @@ We want to be the entity that abstracts all of this, translates web stakeholder 
 
 We work with organizations of any size to listen to their pain points and create an individualized plan to address them, depending on:
 1. **Status:** Are there existing solutions for this pain point, and what is their implementation status?
-2. **Budget:** How much are you willing to invest? This can range from a few hours of work to several months, and from one person exploring the problem space and writing a proposal to funding spec writing, tests, docs[^1], devrel, implementation in browsers[^2] etc, the sky is the limit.
-Obviously, the more you invest in advancing a feature, the higher the odds of success and the shorter the timeline.
+2. **Budget:** How much are you willing to invest to address said pain point?
+This can range from a few hours of work to several months, and from one person exploring the problem space and writing a proposal to user research, spec writing, tests, docs[^1], developer outreach, implementation in browsers[^1] etc, the sky is the limit.
+Obviously, the larger the investment, the higher the odds of success and the shorter the timeline.
 1. **Scope:** Would addressing the pain point require a small improvement to an existing feature, or a whole new web technology? The larger the scope, the higher the risk.
 
-[^1]: via Open Web Docs
-[^2]: via partner organizations
+[^1]: via partner organizations
 
 ## FAQ
 

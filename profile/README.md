@@ -5,6 +5,8 @@
 This readme is a placeholder.
 But while you’re here, here’s a draft of what we’re thinking about.
 
+**Going to TPAC 2025?** Come to our breakout and help shape this effort! ["For Everyone: Towards a Sustainable Future for Independent Standards Work"](https://www.w3.org/events/meetings/2107ef50-86f2-47b9-9b4e-a36cf0e3015a/)
+
 ## Mission
 
 Web Platform Collective aims to empower web stakeholders of all sizes to have their web platform pain points addressed and to make independent standards work financially sustainable.
